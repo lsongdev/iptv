@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,北京冬奥
-http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8
+http://117.169.119.199:8080/live/-8000k-1080P-beijingjishi/index.m3u8
 #EXTINF:-1 ,北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 ,北京纪实
@@ -15,7 +15,7 @@ http://ivi.bupt.edu.cn/hls/btv5.m3u8
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
 #EXTINF:-1 ,北京青年
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 ,北京新闻【公众号:手机软件资源局】
+#EXTINF:-1 ,北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
 #EXTINF:-1 ,北京少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
@@ -43,7 +43,7 @@ http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,甘肃都市【公众号:手机软件资源局】
+#EXTINF:-1 ,甘肃都市
 http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 ,甘肃公共
 http://39.134.39.37/PLTV/88888888/224/3221226250/index.m3u8
@@ -71,7 +71,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 ,浙江教育台
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江钱江台【公众号:手机软件资源局】
+#EXTINF:-1 ,浙江钱江台
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
@@ -171,9 +171,9 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 ,四川经济
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 ,四川文化旅游HD
+#EXTINF:-1 ,四川文化旅游
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1 ,四川新闻频道HD
+#EXTINF:-1 ,四川新闻频道
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 #EXTINF:-1 ,成都新闻
 http://live.826pc.com/cdtv/live.php?id=1
@@ -251,17 +251,17 @@ http://stream1.huaihai.tv/jjsh/playlist.m3u8
 http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 ,江苏徐州公共
 http://stream1.huaihai.tv/ggpd/playlist.m3u8
-#EXTINF:-1 ,浙江6套FHD
+#EXTINF:-1 ,浙江6套
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 ,浙江公共FHD
+#EXTINF:-1 ,浙江公共
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 ,浙江国际FHD
+#EXTINF:-1 ,浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-#EXTINF:-1 ,浙江经视FHD
+#EXTINF:-1 ,浙江经视
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江影视娱乐FHD
+#EXTINF:-1 ,浙江影视娱乐
 http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,杭州影视FHD
+#EXTINF:-1 ,杭州影视
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 #EXTINF:-1 ,九寨沟新闻综合
 http://111.231.194.231:85/live/xwzh_500k.m3u8
@@ -403,25 +403,25 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 http://zbbf2.ahtv.cn/live/da9.m3u8
 #EXTINF:-1 ,广东综艺 4K
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广州番禺HD
+#EXTINF:-1 ,广州番禺
 http://live.pybtv.cn/channel1/sd/live.m3u8
-#EXTINF:-1 ,哈尔滨新闻综合FHD
+#EXTINF:-1 ,哈尔滨新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 ,江苏体育休闲
 http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 ,江苏综艺
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-#EXTINF:-1 ,深圳东部HD
+#EXTINF:-1 ,深圳东部
 http://liveplay.sznews.com/66_norecord_live/343.m3u8
-#EXTINF:-1 ,深圳蛇口FHD
+#EXTINF:-1 ,深圳蛇口
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1 ,徐州1HD
+#EXTINF:-1 ,徐州1
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 ,徐州2HD
+#EXTINF:-1 ,徐州2
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 ,徐州3HD
+#EXTINF:-1 ,徐州3
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 ,徐州4FHD
+#EXTINF:-1 ,徐州4
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 ,南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
@@ -433,17 +433,17 @@ http://live.qxndt.com/channel2/sd/live.m3u8
 http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 ,青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 ,靖江新闻HD
+#EXTINF:-1 ,靖江新闻
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 ,晋江电视FHD
+#EXTINF:-1 ,晋江电视
 http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 ,晋江公共HD
+#EXTINF:-1 ,晋江公共
 http://live.china-latv.com/channel2/sd/live.m3u8
 #EXTINF:-1 ,江苏教育
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 ,江苏影视
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 ,巴中公共FHD
+#EXTINF:-1 ,巴中公共
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
-#EXTINF:-1 ,巴中综合FHD
+#EXTINF:-1 ,巴中综合
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
