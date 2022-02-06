@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "iptv-checker index.m3u"
+  },
+  "dependencies": {
+    "iptv-checker": "^0.22.0"
+  }
+}
