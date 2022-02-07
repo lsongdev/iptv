@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "test": "iptv-checker index.m3u"
+    "start": "./run.sh"
   },
+  "type": "module",
   "dependencies": {
-    "iptv-checker": "^0.22.0"
+    "extm3u": "0.0.2",
+    "tinyh": "^0.0.0"
   }
 }
