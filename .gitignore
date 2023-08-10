@@ -1,6 +1,2 @@
 
 .DS_Store
-yarn.lock
-
-tmp/
-node_modules/

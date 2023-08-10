@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,央视
-cn/cctv.m3u
-#EXTINF:-1,卫视
-cn/ws.m3u
-#EXTINF:-1,地方
-cn/df.m3u
