@@ -1,0 +1,25 @@
+
+m3u: https://live.fanmingming.com/tv/m3u/global.m3u
+epg: https://live.fanmingming.com/e.xml
+playlist:
+  - id: CCTV1
+    name: CCTV-1
+    tvg-id: CCTV1
+    tvg-name: CCTV-1综合
+    group: 央视
+  - id: CCTV2
+    name: CCTV-2
+    tvg-id: CCTV2
+    tvg-name: CCTV-2财经
+    group: 央视
+  - id: CCTV3
+    name: CCTV-3
+    tvg-id: CCTV3
+    tvg-name: CCTV-3体育
+    group: 央视
+  - id: CCTV4
+    name: CCTV-4
+    tvg-id: CCTV4
+    tvg-name: CCTV-4国际
+    group: 央视
+  
