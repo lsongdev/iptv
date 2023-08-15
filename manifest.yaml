@@ -28,7 +28,7 @@ playlist:
     tvg-id: CCTV5
     tvg-name: "CCTV-5 体育"
   -
-    epg-filter: "CCTV-5+"
+    epg-filter: "CCTV5+"
     m3u-filter: "CCTV-5+ 体育赛事"
     tvg-id: CCTV5+
     tvg-name: "CCTV-5+ 体育赛事"

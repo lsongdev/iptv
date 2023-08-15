@@ -516,6 +516,63 @@
   <programme channel="CCTV5" start="20230815233500 +0800" stop="20230815235900 +0800">
     <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛2（4K）</title>
   </programme>
+  <channel id="CCTV5+">
+    <display-name lang="zh">CCTV-5+ 体育赛事</display-name>
+  </channel>
+  <programme channel="CCTV5+" start="20230815000000 +0800" stop="20230815010100 +0800">
+    <title lang="zh">实况录像（奥林匹克）-2023年全国举重锦标赛 女子49公斤级决赛（4K）</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815010100 +0800" stop="20230815023100 +0800">
+    <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 季后赛 半决赛 8</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815023100 +0800" stop="20230815040000 +0800">
+    <title lang="zh">国际足球赛场-2023南美解放者杯小组赛 阿根廷河床—巴西弗卢米嫩塞</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815040000 +0800" stop="20230815053000 +0800">
+    <title lang="zh">2023年国际冰联男子冰球世界锦标赛-顶级组（斯洛文尼亚队-斯洛伐克队）</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815053000 +0800" stop="20230815070000 +0800">
+    <title lang="zh">实况录像（奥林匹克）-2023年女足世界杯 1/8决赛3（4K）</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815070000 +0800" stop="20230815090000 +0800">
+    <title lang="zh">实况录像（奥林匹克）-2023年苏迪曼杯羽毛球赛 小组赛 中国队-新加坡队（4K）</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815090000 +0800" stop="20230815103000 +0800">
+    <title lang="zh">实况录像-2023年世界田联钻石联赛 洛桑站</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815103000 +0800" stop="20230815120000 +0800">
+    <title lang="zh">实况录像-2023年世界乒乓球锦标赛  2</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815120000 +0800" stop="20230815133000 +0800">
+    <title lang="zh">实况录像-2023/2024英格兰足球超级联赛 第1轮 布赖顿—卢顿</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815133000 +0800" stop="20230815150000 +0800">
+    <title lang="zh">实况录像-2023年ATP1000男子网球大师赛 多伦多站 决赛</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815150000 +0800" stop="20230815160000 +0800">
+    <title lang="zh">实况录像-2023年世界泳联锦标赛 跳水 女子双人三米板 决赛</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815160000 +0800" stop="20230815170000 +0800">
+    <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 双人技术自选 决赛（4K）</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815170000 +0800" stop="20230815180000 +0800">
+    <title lang="zh">赛事集锦-2023年蹦床世界杯 葡萄牙站2</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815180000 +0800" stop="20230815193000 +0800">
+    <title lang="zh">实况录像-2023年世界田联钻石联赛  斯德哥尔摩站</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815193000 +0800" stop="20230815210000 +0800">
+    <title lang="zh">实况录像-2023年世界女排联赛  韩国站  韩国队—中国队</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815210000 +0800" stop="20230815220000 +0800">
+    <title lang="zh">实况录像-2023年世界自行车锦标赛  场地决赛  1</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815220000 +0800" stop="20230815233000 +0800">
+    <title lang="zh">实况录像-2023年ATP1000男子网球大师赛 多伦多站 1</title>
+  </programme>
+  <programme channel="CCTV5+" start="20230815233000 +0800" stop="20230815235900 +0800">
+    <title lang="zh">赛事集锦-2023年高尔夫英国公开赛 第三轮</title>
+  </programme>
   <channel id="CCTV6">
     <display-name lang="zh">CCTV-6 电影</display-name>
   </channel>
@@ -815,5 +872,92 @@
   </programme>
   <programme channel="CCTV8" start="20230815235600 +0800" stop="20230815235900 +0800">
     <title lang="zh">星推荐-2023年8月-15</title>
+  </programme>
+  <channel id="CCTV9">
+    <display-name lang="zh">CCTV-9 纪录</display-name>
+  </channel>
+  <programme channel="CCTV9" start="20230815000300 +0800" stop="20230815005900 +0800">
+    <title lang="zh">全景自然2023-239</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815005900 +0800" stop="20230815015500 +0800">
+    <title lang="zh">魅力万象2023-242</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815015500 +0800" stop="20230815022500 +0800">
+    <title lang="zh">活力·源2023-226</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815022500 +0800" stop="20230815032200 +0800">
+    <title lang="zh">故事中国2023-210</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815032200 +0800" stop="20230815034600 +0800">
+    <title lang="zh">9视频2023-228</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815034600 +0800" stop="20230815044600 +0800">
+    <title lang="zh">特别呈现2023-228</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815044600 +0800" stop="20230815054600 +0800">
+    <title lang="zh">故事中国2023-210</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815054600 +0800" stop="20230815064700 +0800">
+    <title lang="zh">全景自然2023-239</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815064700 +0800" stop="20230815074300 +0800">
+    <title lang="zh">魅力万象2023-242</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815074300 +0800" stop="20230815075900 +0800">
+    <title lang="zh">9视频2023-228</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815075900 +0800" stop="20230815083100 +0800">
+    <title lang="zh">活力·源2023-226</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815083100 +0800" stop="20230815085900 +0800">
+    <title lang="zh">活力·源2023-213</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815085900 +0800" stop="20230815100000 +0800">
+    <title lang="zh">特别呈现2023-228</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815100000 +0800" stop="20230815105800 +0800">
+    <title lang="zh">特别呈现2023-202</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815105800 +0800" stop="20230815115900 +0800">
+    <title lang="zh">特别呈现2023-203</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815115900 +0800" stop="20230815130300 +0800">
+    <title lang="zh">寰宇视野2023-198</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815130300 +0800" stop="20230815140200 +0800">
+    <title lang="zh">寰宇视野2023-199</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815140200 +0800" stop="20230815150200 +0800">
+    <title lang="zh">寰宇视野2023-200</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815150200 +0800" stop="20230815160100 +0800">
+    <title lang="zh">寰宇视野2023-201</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815160100 +0800" stop="20230815170000 +0800">
+    <title lang="zh">寰宇视野2023-226</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815170000 +0800" stop="20230815180100 +0800">
+    <title lang="zh">全景自然2023-240</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815180100 +0800" stop="20230815190000 +0800">
+    <title lang="zh">魅力万象2023-243</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815190000 +0800" stop="20230815192200 +0800">
+    <title lang="zh">9视频2023-229</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815192200 +0800" stop="20230815200000 +0800">
+    <title lang="zh">活力·源2023-227</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815200000 +0800" stop="20230815210000 +0800">
+    <title lang="zh">特别呈现2023-229</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815210000 +0800" stop="20230815220000 +0800">
+    <title lang="zh">寰宇视野2023-227</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815220000 +0800" stop="20230815225900 +0800">
+    <title lang="zh">故事中国2023-211</title>
+  </programme>
+  <programme channel="CCTV9" start="20230815225900 +0800" stop="20230815235900 +0800">
+    <title lang="zh">寰宇视野2023-227</title>
   </programme>
 </tv>

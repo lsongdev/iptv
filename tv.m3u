@@ -9,9 +9,13 @@ https://cntv.sbs/tv?auth=230813&id=cctv3
 https://cntv.sbs/tv?auth=230813&id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" group-title="央视",CCTV-5 体育
 https://cntv.sbs/tv?auth=230813&id=cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" group-title="央视",CCTV-5+ 体育赛事
+https://cntv.sbs/tv?auth=230813&id=cctv5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" group-title="央视",CCTV-6 电影
 https://cntv.sbs/tv?auth=230813&id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" group-title="央视",CCTV-7 国防军事
 https://cntv.sbs/tv?auth=230813&id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" group-title="央视",CCTV-8 电视剧
 https://cntv.sbs/tv?auth=230813&id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" group-title="央视",CCTV-9 纪录
+https://cntv.sbs/tv?auth=230813&id=cctv9
