@@ -2,24 +2,53 @@
 m3u: https://live.fanmingming.com/tv/m3u/global.m3u
 epg: https://live.fanmingming.com/e.xml
 playlist:
-  - id: CCTV1
-    name: CCTV-1
+  -
+    epg-filter: CCTV1
+    m3u-filter: "CCTV-1 综合"
     tvg-id: CCTV1
-    tvg-name: CCTV-1综合
-    group: 央视
-  - id: CCTV2
-    name: CCTV-2
+    tvg-name: "CCTV-1 综合"
+  -
+    epg-filter: CCTV2
+    m3u-filter: "CCTV-2 财经"
     tvg-id: CCTV2
-    tvg-name: CCTV-2财经
-    group: 央视
-  - id: CCTV3
-    name: CCTV-3
+    tvg-name: "CCCTV-2 财经"
+  - 
+    epg-filter: CCTV3
+    m3u-filter: "CCTV-3 综艺"
     tvg-id: CCTV3
-    tvg-name: CCTV-3体育
-    group: 央视
-  - id: CCTV4
-    name: CCTV-4
+    tvg-name: "CCTV-3 综艺"
+  -
+    epg-filter: CCTV4
+    m3u-filter: "CCTV-4 中文国际"
     tvg-id: CCTV4
-    tvg-name: CCTV-4国际
-    group: 央视
-  
+    tvg-name: "CCTV-4 中文国际"
+  -
+    epg-filter: CCTV5
+    m3u-filter: "CCTV-5 体育"
+    tvg-id: CCTV5
+    tvg-name: "CCTV-5 体育"
+  -
+    epg-filter: "CCTV-5+"
+    m3u-filter: "CCTV-5+ 体育赛事"
+    tvg-id: CCTV5+
+    tvg-name: "CCTV-5+ 体育赛事"
+  -
+    epg-filter: CCTV6
+    m3u-filter: "CCTV-6 电影"
+    tvg-id: CCTV6
+    tvg-name: "CCTV-6 电影"
+  -
+    epg-filter: CCTV7
+    m3u-filter: "CCTV-7 国防军事"
+    tvg-id: CCTV7
+    tvg-name: "CCTV-7 国防军事"
+  -
+    epg-filter: CCTV8
+    m3u-filter: "CCTV-8 电视剧"
+    tvg-id: CCTV8
+    tvg-name: "CCTV-8 电视剧"
+  -
+    epg-filter: CCTV9
+    m3u-filter: "CCTV-9 纪录"
+    tvg-id: CCTV9
+    tvg-name: "CCTV-9 纪录"

@@ -44,3 +44,23 @@ def parse_m3u(m3u_data):
 def load_from_url(url):
     resp = requests.get(url)
     return parse_m3u(resp.text)
+
+
+def generate_m3u(data):
+    output = "#EXTM3U " + " ".join(
+        [f'{key}="{value}"' for key, value in data["metadata"].items()]
+    )
+    output += "\n"
+    for track in data["tracks"]:
+        duration = track.get("duration", -1)
+        attrs_str = " ".join(
+            [f'{key}="{value}"' for key, value in track["attrs"].items()]
+        )
+        output += f"#EXTINF:{duration} {attrs_str},{track['name']}\n"
+        output += f"{track['location']}\n"
+    return output
+
+
+def write_m3u(filename, data):
+    with open(filename, "w") as f:
+        f.write(generate_m3u(data))
