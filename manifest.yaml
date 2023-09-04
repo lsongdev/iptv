@@ -90,25 +90,21 @@ playlists:
     tvg-name: "CCTV-16 奥林匹克"
     group-title: "中央电视台"
   - 
+    filter: "CCTV-16 4K"
+    tvg-id: "CCTV16奥林匹克"
+    tvg-name: "CCTV-16 奥林匹克4K超高清"
+    group-title: "中央电视台"
+  - 
     filter: "CCTV-17 农业农村"
     tvg-id: "CCTV17农业农村"
     tvg-name: "CCTV-17 农业农村"
-    group-title: "中央电视台"
-  - 
-    filter: "CCTV-16 奥林匹克"
-    tvg-id: "CCTV16奥林匹克"
-    tvg-name: "CCTV-16 奥林匹克"
     group-title: "中央电视台"
   - 
     filter: "CCTV-4K 超高清"
     tvg-id: "CCTV4K超高清"
     tvg-name: "CCTV-4K 超高清"
     group-title: "中央电视台"
-  - 
-    filter: "CCTV-16 4K"
-    tvg-id: "CCTV16奥林匹克"
-    tvg-name: "CCTV-16 奥林匹克4K超高清"
-    group-title: "中央电视台"
+  
   # ===========================================
   -
     filter: "北京卫视"
