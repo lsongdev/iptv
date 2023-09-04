@@ -1,0 +1,61 @@
+#EXTM3U x-tvg-url="https://lsong.org/iptv/epg.xml"
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV-1 综合" tvg-logo="logo/CCTV1综合.png" group-title="中央电视台",CCTV-1 综合
+https://cntv.sbs/tv?auth=230830&id=cctv1
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV-2 财经" tvg-logo="logo/CCTV2财经.png" group-title="中央电视台",CCTV-2 财经
+https://cntv.sbs/tv?auth=230830&id=cctv2
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV-3 综艺" tvg-logo="logo/CCTV3综艺.png" group-title="中央电视台",CCTV-3 综艺
+https://cntv.sbs/tv?auth=230830&id=cctv3
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="logo/CCTV4中文国际.png" group-title="中央电视台",CCTV-4 中文国际
+https://cntv.sbs/tv?auth=230830&id=cctv4
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV-5 体育" tvg-logo="logo/CCTV5体育.png" group-title="中央电视台",CCTV-5 体育
+https://cntv.sbs/tv?auth=230830&id=cctv5
+#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="logo/CCTV-5+体育赛事.png" group-title="中央电视台",CCTV-5+ 体育赛事
+https://cntv.sbs/tv?auth=230830&id=cctv5p
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV-6 电影" tvg-logo="logo/CCTV6电影.png" group-title="中央电视台",CCTV-6 电影
+https://cntv.sbs/tv?auth=230830&id=cctv6
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="logo/CCTV7国防军事.png" group-title="中央电视台",CCTV-7 国防军事
+https://cntv.sbs/tv?auth=230830&id=cctv7
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV-8 电视剧" tvg-logo="logo/CCTV8电视剧.png" group-title="中央电视台",CCTV-8 电视剧
+https://cntv.sbs/tv?auth=230830&id=cctv8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV-9 纪录" tvg-logo="logo/CCTV9纪录.png" group-title="中央电视台",CCTV-9 纪录
+https://cntv.sbs/tv?auth=230830&id=cctv9
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV-10 科教" tvg-logo="logo/CCTV10科教.png" group-title="中央电视台",CCTV-10 科教
+https://cntv.sbs/tv?auth=230830&id=cctv10
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="logo/CCTV11戏曲.png" group-title="中央电视台",CCTV-11 戏曲
+https://cntv.sbs/tv?auth=230830&id=cctv11
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV-12 社会与法" tvg-logo="logo/CCTV12社会与法.png" group-title="中央电视台",CCTV-12 社会与法
+https://cntv.sbs/tv?auth=230830&id=cctv12
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV-13 新闻" tvg-logo="logo/CCTV13新闻.png" group-title="中央电视台",CCTV-13 新闻
+https://cntv.sbs/tv?auth=230830&id=cctv13
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV-14 少儿" tvg-logo="logo/CCTV14少儿.png" group-title="中央电视台",CCTV-14 少儿
+https://cntv.sbs/tv?auth=230830&id=cctv14
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV-15 音乐" tvg-logo="logo/CCTV15音乐.png" group-title="中央电视台",CCTV-15 音乐
+https://cntv.sbs/tv?auth=230830&id=cctv15
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="logo/CCTV16奥林匹克.png" group-title="中央电视台",CCTV-16 奥林匹克
+https://cntv.sbs/tv?auth=230830&id=cctv16
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="logo/CCTV17农业农村.png" group-title="中央电视台",CCTV-17 农业农村
+https://cntv.sbs/tv?auth=230830&id=cctv17
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="logo/CCTV16奥林匹克.png" group-title="中央电视台",CCTV-16 奥林匹克
+https://cntv.sbs/tv?auth=230830&id=cctv16
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV-4K 超高清" tvg-logo="logo/CCTV4K超高清.png" group-title="中央电视台",CCTV-4K 超高清
+https://cntv.sbs/tv?auth=230830&id=cctv4k
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV-16 奥林匹克4K超高清" tvg-logo="logo/CCTV16奥林匹克.png" group-title="中央电视台",CCTV-16 奥林匹克4K超高清
+https://cntv.sbs/tv?auth=230830&id=cctv164k
+#EXTINF:-1 tvg-id="BTV" tvg-name="北京卫视" tvg-logo="logo/BTV.png" group-title="卫视",北京卫视
+https://cntv.sbs/tv?auth=230830&id=bjws
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="logo/天津卫视.png" group-title="卫视",天津卫视
+https://cntv.sbs/tv?auth=230830&id=tjws
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://cntv.sbs/tv?auth=230830&id=lnws
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://cntv.sbs/tv?auth=230830&id=jlws
+#EXTINF:-1 tvg-id="EBS1" tvg-name="EBS-1" tvg-logo="logo/EBS1.png" group-title="韩国",EBS-1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS-2" tvg-logo="logo/EBS2.png" group-title="韩国",EBS-2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS少儿" tvg-name="EBS少儿" tvg-logo="logo/EBS少儿.png" group-title="韩国",EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-id="NASA Public Channel" tvg-name="NASA Public Channel" tvg-logo="logo/NASA Public Channel.png" group-title="美国",NASA Public Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="redbull-sports" tvg-name="RedBull Sports" tvg-logo="logo/redbull-sports.png" group-title="美国",RedBull Sports
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8

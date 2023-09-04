@@ -1,0 +1,158 @@
+
+m3u: https://live.fanmingming.com/tv/m3u/global.m3u
+epg: https://live.fanmingming.com/e.xml
+
+playlists:
+  -
+    filter: "CCTV-1 综合"
+    tvg-id: "CCTV1综合"
+    tvg-name: "CCTV-1 综合"
+    group-title: "中央电视台"
+  -
+    filter: "CCTV-2 财经"
+    tvg-id: "CCTV2财经"
+    tvg-name: "CCTV-2 财经"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-3 综艺"
+    tvg-id: "CCTV3综艺"
+    tvg-name: "CCTV-3 综艺"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-4 中文国际"
+    tvg-id: "CCTV4中文国际"
+    tvg-name: "CCTV-4 中文国际"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-5 体育"
+    tvg-id: "CCTV5体育"
+    tvg-name: "CCTV-5 体育"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-5+ 体育赛事"
+    tvg-id: "CCTV-5+体育赛事"
+    tvg-name: "CCTV-5+ 体育赛事"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-6 电影"
+    tvg-id: "CCTV6电影"
+    tvg-name: "CCTV-6 电影"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-7 国防军事"
+    tvg-id: "CCTV7国防军事"
+    tvg-name: "CCTV-7 国防军事"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-8 电视剧"
+    tvg-id: "CCTV8电视剧"
+    tvg-name: "CCTV-8 电视剧"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-9 纪录"
+    tvg-id: "CCTV9纪录"
+    tvg-name: "CCTV-9 纪录"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-10 科教"
+    tvg-id: "CCTV10科教"
+    tvg-name: "CCTV-10 科教"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-11 戏曲"
+    tvg-id: "CCTV11戏曲"
+    tvg-name: "CCTV-11 戏曲"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-12 社会与法"
+    tvg-id: "CCTV12社会与法"
+    tvg-name: "CCTV-12 社会与法"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-13 新闻"
+    tvg-id: "CCTV13新闻"
+    tvg-name: "CCTV-13 新闻"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-14 少儿"
+    tvg-id: "CCTV14少儿"
+    tvg-name: "CCTV-14 少儿"
+    group-title: "中央电视台"
+
+  - 
+    filter: "CCTV-15 音乐"
+    tvg-id: "CCTV15音乐"
+    tvg-name: "CCTV-15 音乐"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-16 奥林匹克"
+    tvg-id: "CCTV16奥林匹克"
+    tvg-name: "CCTV-16 奥林匹克"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-17 农业农村"
+    tvg-id: "CCTV17农业农村"
+    tvg-name: "CCTV-17 农业农村"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-16 奥林匹克"
+    tvg-id: "CCTV16奥林匹克"
+    tvg-name: "CCTV-16 奥林匹克"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-4K 超高清"
+    tvg-id: "CCTV4K超高清"
+    tvg-name: "CCTV-4K 超高清"
+    group-title: "中央电视台"
+  - 
+    filter: "CCTV-16 4K"
+    tvg-id: "CCTV16奥林匹克"
+    tvg-name: "CCTV-16 奥林匹克4K超高清"
+    group-title: "中央电视台"
+  # ===========================================
+  -
+    filter: "北京卫视"
+    tvg-id: "BTV"
+    tvg-name: "北京卫视"
+    group-title: "卫视"
+  -
+    filter: "天津卫视"
+    tvg-id: "天津卫视"
+    tvg-name: "天津卫视"
+    group-title: "卫视"
+  -
+    filter: "辽宁卫视"
+    tvg-id: "辽宁卫视"
+    tvg-name: "辽宁卫视"
+    group-title: "卫视"
+  -
+    filter: "吉林卫视"
+    tvg-id: "吉林卫视"
+    tvg-name: "吉林卫视"
+    group-title: "卫视"
+
+  -
+    filter: "韩国-EBS1"
+    tvg-id: "EBS1"
+    tvg-name: "EBS-1"
+    group-title: "韩国"
+  -
+    filter: "韩国-EBS2"
+    tvg-id: "EBS2"
+    tvg-name: "EBS-2"
+    group-title: "韩国"
+  -
+    filter: "韩·EBS少儿"
+    tvg-id: "EBS少儿"
+    tvg-name: "EBS少儿"
+    group-title: "韩国"
+  -
+    filter: "美·NASA Public Channel"
+    tvg-id: "NASA Public Channel"
+    tvg-name: "NASA Public Channel"
+    group-title: "美国"
+  -
+    filter: "美·红牛运动"
+    tvg-id: "redbull-sports"
+    tvg-name: "RedBull Sports"
+    group-title: "美国"

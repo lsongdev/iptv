@@ -1,5 +1,6 @@
 import re, requests
 
+
 def parse_attributes(data):
     attrs = {}
     regex = re.compile(r'([\w-]+)="(.*?)"')
