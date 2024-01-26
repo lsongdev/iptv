@@ -1,0 +1,282 @@
+{
+    "categories": [
+        {
+            "name": "央视",
+            "channels": [
+                "CCTV1 综合",
+                "CCTV2 财经",
+                "CCTV3 综艺",
+                "CCTV4 中文国际",
+                "CCTV5 体育",
+                "CCTV5+ 体育赛事",
+                "CCTV6 电影"
+            ]
+        },
+        {
+            "name": "卫视",
+            "channels": [
+                "湖南卫视",
+                "浙江卫视",
+                "江苏卫视",
+                "东方卫视",
+                "北京卫视",
+                "安徽卫视",
+                "黑龙江卫视",
+                "辽宁卫视",
+                "深圳卫视",
+                "广东卫视",
+                "山东卫视",
+                "河南卫视",
+                "湖北卫视",
+                "重庆卫视",
+                "四川卫视",
+                "天津卫视",
+                "吉林卫视",
+                "陕西卫视",
+                "山西卫视",
+                "河北卫视",
+                "广西卫视",
+                "云南卫视",
+                "贵州卫视",
+                "江西卫视",
+                "内蒙古卫视",
+                "宁夏卫视",
+                "甘肃卫视",
+                "青海卫视",
+                "新疆卫视",
+                "西藏卫视",
+                "海南卫视",
+                "旅游卫视",
+                "兵团卫视"
+            ]
+        },
+        {
+            "name": "地方",
+            "channels": [
+                "北京文艺",
+                "北京科教",
+                "北京影视",
+                "北京财经",
+                "北京生活",
+                "北京青年",
+                "北京新闻",
+                "北京冬奥纪实",
+                "北京冬奥纪实2",
+                "北京冬奥纪实3",
+                "北京冬奥纪实4",
+                "北京冬奥纪实5",
+                "北京冬奥纪实6",
+                "北京冬奥纪实7",
+                "北京冬奥纪实8",
+                "北京冬奥纪实9",
+                "北京冬奥纪实10"
+            ]
+        },
+        {
+            "name": "其他",
+            "channels": [
+                "CCTV1 综合",
+                "CCTV2 财经",
+                "CCTV3 综艺",
+                "CCTV4 中文国际",
+                "CCTV5 体育",
+                "CCTV5+ 体育赛事",
+                "CCTV6 电影"
+            ]
+        }
+    ],
+    "channels": [
+        {
+            "name": "CCTV1 综合",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/d57905b93540bd15f0c48230dbbbff7ee0d645ff539e38866e2d15c8b9f7dfcd.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV2 财经",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/20115388de0207131af17eac86c33049b95d69eaff064e55653a1b941810a006.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV3 综艺",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/7b7a65c712450da3deb6ca66fbacf4f9aee00d3f20bd80eafb5ada01ec63eb3a.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV4 中文国际",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/f357e58fdbcc076a3d65e1f958c942b2e14f14342c60736ceed98b092d35356a.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "1",
+                    "url": "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8"
+                },
+                {
+                    "name": "2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV5 体育",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/0a6a7138952675983a3d854df7688557b286d59aa06166edae51506f9204d655.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV5+ 体育赛事",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/649ad76a90bfef55b05db9fe52e006487280f619089099d5dc971e387fc6eff0.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "CCTV6 电影",
+            "logo": "https://resources.yangshipin.cn/assets/oms/image/202306/741515efda91f03f455df8a7da4ee11fa9329139c276435cf0a9e2af398d5bf2.png?imageMogr2/format/webp",
+            "sources": [
+                {
+                    "name": "",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "东方卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "湖南卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "湖北卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "辽宁卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "江苏卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "江西卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "山东卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "广东卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "广西卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "重庆卫视",
+            "sources": [
+                {
+                    "name": "源1",
+                    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+                },
+                {
+                    "name": "源2",
+                    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8"
+                }
+            ]
+        }
+    ]
+}
